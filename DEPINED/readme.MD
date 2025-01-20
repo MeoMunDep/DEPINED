@@ -66,9 +66,6 @@ This file controls the bot’s behavior. Below is an example configuration:
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
-  "doTasks": true,
-  "playGames": true,
-  "referralCode": ""
 }
 ```
 
