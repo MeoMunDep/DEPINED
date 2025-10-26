@@ -53,7 +53,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ## Configuration Files
 
-### 1. `configs.json` - 📜 Adjust Bot Settings
+### 1. `configs.json` - Adjust Bot Settings
 
 This file controls the bot’s behavior. Below is an example configuration:
 
@@ -77,7 +77,7 @@ This file controls the bot’s behavior. Below is an example configuration:
   - `timeToRestartAllAccounts`: Time (in seconds) to restart all accounts.
   - `howManyAccountsRunInOneTime`: Number of accounts to run simultaneously.
 
-### 2. `datas.txt` - 🗂️ User Data
+### 2. `datas.txt` - User Data
 
 - Fill the data for `datas.txt` file, get data from [here](https://t.me/KeoAirDropFreeNee/1524). This file contains user data in the following format:
 
@@ -91,7 +91,7 @@ ey...
 
 _Note: Each row for each account_
 
-### 3. `wallets.txt` - 💼 Wallet Addresses
+### 3. `wallets.txt` - Wallet Addresses
 
 - Wallets generator: [Link](https://github.com/MeoMunDep/Automatic-Ultimate-Create-Wallets-for-Airdrop)
 - Add your wallet addresses in the following format:
@@ -104,7 +104,7 @@ abc...xyz
 
 _Note: Wallet updates are currently not supported._
 
-### 4. `proxies.txt` - 🌐 Proxy List (Optional)
+### 4. `proxies.txt` - Proxy List (Optional)
 
 If you are using proxies, add them here. Leave the file blank if you are not using proxies. Supported formats:
 
